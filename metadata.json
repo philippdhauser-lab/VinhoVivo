@@ -1,0 +1,6 @@
+{
+  "name": "VivaVinho",
+  "description": "Marketplace de hedonismo sustentável unindo prazer (vinho, cacau, café) com transparência de impacto ambiental e social.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
